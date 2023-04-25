@@ -1,0 +1,5 @@
+qiskit==0.42.1
+qiskit-ibm-provider==0.5.2
+matplotlib==3.7.1
+jupyterlab==3.6.3
+pylatexenc==2.10
