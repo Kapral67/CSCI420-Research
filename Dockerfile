@@ -1,4 +1,4 @@
-FROM --platform=$BUILDPLATFORM python:3.8-slim-bullseye
+FROM --platform=$BUILDPLATFORM python:3.11-slim-bullseye
 
 USER root
 WORKDIR /root
